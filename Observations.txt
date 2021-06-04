@@ -1,0 +1,6 @@
+Observations:
+Maximum Weight = 170.924
+Minimum Weight =  78.01476
+Mode is:  80.0
+Median:  127.15775
+Mean or Average is:  67.99311359679979
